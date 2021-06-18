@@ -19,7 +19,10 @@
 ```Link```
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true"><p lang="en" dir="ltr">Day 2: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>🔷️Started working on a new project on <a href="https://t.co/I0PmIT3dmM">https://t.co/I0PmIT3dmM</a><br>🔷️Designing a new shopping layout for a plain HTML shopping page in the June <a href="https://twitter.com/hashtag/CodePenChallenge?src=hash&amp;ref_src=twsrc%5Etfw">#CodePenChallenge</a>.<br>🔗️Pen at <a href="https://t.co/r6dbk05TY7">https://t.co/r6dbk05TY7</a></p>&mdash; TheFoss Moss🍏️🦊️🐾️ (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1405568341494833152?ref_src=twsrc%5Etfw">June 17, 2021</a></blockquote>
 
-
+## Day-3: #100DaysOfCode
+* * *
+**18/06/2021**
+- [x] Practised some more CSS. Specifically, using transitions to make toggle buttons.
 
 
 
