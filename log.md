@@ -24,6 +24,10 @@
 **18/06/2021**
 - [x] Practised some more CSS. Specifically, using transitions to make toggle buttons.
 
+## Day-4: #100DaysOfCode
+* * *
+**19/06/2021**
+- [x] Not much progress today; just brushed up on some more CSS concepts.
 
 
 
