@@ -29,5 +29,8 @@
 **19/06/2021**
 - [x] Not much progress today; just brushed up on some more CSS concepts.
 
-
+## Day-5: #100DaysOfCode
+* * *
+**20/06/2021**
+- **A bit more productive than yesterday. Started with Git and Github concepts.**
 
