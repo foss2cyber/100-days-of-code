@@ -37,3 +37,8 @@
 ``Link to tweet`` 
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day 5: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>🔘️A bit more productive than yesterday. Started with Git and Github concepts.</p>&mdash; TheFoss Moss🍏️🦊️🐾️ (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1406677148409110528?ref_src=twsrc%5Etfw">June 20, 2021</a></blockquote>
 
+## Day-6: #100DaysOfCode
+* * *
+**21/06/2021**    
+💠 `Practiced a lot of HCSS, Markdown; and deployed a portfolio website on Github pages`.
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Day 6: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>🔗️Practiced a lot of HCSS, Markdown; and deployed a portfolio website on Github pages.</p>&mdash; TheFoss Moss🍏️🦊️🐾️ (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1407046925044625422?ref_src=twsrc%5Etfw">June 21, 2021</a></blockquote> 
