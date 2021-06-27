@@ -64,3 +64,4 @@
 ```markdown
 # Markdown is so dope! Kramdown's also pretty swell! 😎
 ```
+:link:&nbsp;<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-9: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>🎯 27/06/21<br>☑️ Learnt the Liquid templating language used in Jekyll.</p>&mdash; TheFoss Moss🍏️🦊️🐾️ (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1409211686792224776?ref_src=twsrc%5Etfw">June 27, 2021</a></blockquote>
