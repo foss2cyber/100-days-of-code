@@ -57,7 +57,7 @@
 :link: &nbsp; <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Day-8: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>☑️ Got sick.3 days totalled; but will make up real soon! Practiced a lot of CSS(again) and started out with Kramdown, for a static <a href="https://twitter.com/jekyllrb?ref_src=twsrc%5Etfw">@jekyllrb</a> site.</p>&mdash; TheFoss Moss🍏️🦊️🐾️ (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1408852130228707330?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote>
 
 **[Day-9: #100DaysOfCode](#Day-9:-#100DaysOfCode-toc)**
-
+-
 :dart: **`27/06/21`**
 
 :ballot_box_with_check:&nbsp;`Learnt the Liquid templating language used in Jekyll.`
@@ -67,7 +67,7 @@
 :link:&nbsp;<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-9: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>🎯 27/06/21<br>☑️ Learnt the Liquid templating language used in Jekyll.</p>&mdash; TheFoss Moss🍏️🦊️🐾️ (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1409211686792224776?ref_src=twsrc%5Etfw">June 27, 2021</a></blockquote>
 
 **[Day-10: #100DaysOfCode](#Day-9:-#100DaysOfCode-toc)**
-
+-
 :dart: **`29/06/21`**
 
 :ballot_box_with_check:&nbsp;`Learnt how to degrade the font-family in CSS and image resizing.` 
