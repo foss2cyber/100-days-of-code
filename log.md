@@ -66,7 +66,7 @@
 ```
 :link:&nbsp;<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-9: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>🎯 27/06/21<br>☑️ Learnt the Liquid templating language used in Jekyll.</p>&mdash; TheFoss Moss🍏️🦊️🐾️ (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1409211686792224776?ref_src=twsrc%5Etfw">June 27, 2021</a></blockquote>
 
-**[Day-10: #100DaysOfCode](#Day-9:-#100DaysOfCode-toc)**
+**[Day-10: #100DaysOfCode](#Day-10:-#100DaysOfCode-toc)**
 -
 :dart: **`29/06/21`**
 
@@ -74,3 +74,12 @@
 
 :link:&nbsp;<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-10: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>🎯️29/06/21<br>☑️ Learnt degrading the font-family in CSS and image resizing. <a href="https://t.co/yjiVetqOGu">pic.twitter.com/yjiVetqOGu</a></p>&mdash; TheFoss Moss✍️🍒🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1409950884063182853?ref_src=twsrc%5Etfw">June 29, 2021</a></blockquote>
 
+**[Day-11: #100DaysOfCode](#Day-11:-#100DaysOfCode-toc)**
+-
+:dart: **`30/06/2021`**
+
+`Could barely get anything done today. Weather=🔥️😓♨️ !!!
+Still, managed to set up my blog on @hashnode & ️started a series journaling my coding progress @freeCodeCamp and @TheOdinProject. Check it out`[here](https://ishanvelle.hashnode.dev/).
+
+:link:&nbsp;<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">🎯️Day-11: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>✏️Could barely get anything done today. Weather=🔥️😓<br>✏️Still, managed to set up my blog on <a href="https://twitter.com/hashnode?ref_src=twsrc%5Etfw">@hashnode</a> &amp; started a series journaling my coding progress.📝️</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1410316446773612544?ref_src=twsrc%5Etfw">June 30, 2021</a></blockquote>
+️
