@@ -82,4 +82,18 @@
 Still, managed to set up my blog on @hashnode & ️started a series journaling my coding progress @freeCodeCamp and @TheOdinProject. Check it out`[here](https://ishanvelle.hashnode.dev/).
 
 :link:&nbsp;<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">🎯️Day-11: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>✏️Could barely get anything done today. Weather=🔥️😓<br>✏️Still, managed to set up my blog on <a href="https://twitter.com/hashnode?ref_src=twsrc%5Etfw">@hashnode</a> &amp; started a series journaling my coding progress.📝️</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1410316446773612544?ref_src=twsrc%5Etfw">June 30, 2021</a></blockquote>
+
+**[Day-12: #100DaysOfCode](#Day-12:-#100DaysOfCode-toc)**
+-
+:dart: **`01/07/2021`**
+-
+:ballot_box_with_check: Full-on CSS today! Learnt and practiced adding borders & rounded corners around elements, using the `border-radius` property.
+:ballot_box_with_check: Setting the background color and styling elements with the `id` atrribute using CSS.
+
+:link:&nbsp; **[tweet](#tweet-toc)**
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">DAY-12: <a href="https://twitter.com/hashtag/100DAYSOFCODE?src=hash&amp;ref_src=twsrc%5Etfw">#100DAYSOFCODE</a><br>🎯 01/07/2021<br>☑️ Full-on CSS today! Learnt and practiced adding borders &amp; rounded corners around elements, using the border-radius property.<br>☑️ Setting the background color and styling elements with the id atrribute using CSS. <a href="https://t.co/9WcezGc4aT">pic.twitter.com/9WcezGc4aT</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1410682863473762304?ref_src=twsrc%5Etfw">July 1, 2021</a></blockquote> 
+
+
+
+
 ️
