@@ -93,7 +93,14 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 :link:&nbsp; **[tweet](#tweet-toc)**
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">DAY-12: <a href="https://twitter.com/hashtag/100DAYSOFCODE?src=hash&amp;ref_src=twsrc%5Etfw">#100DAYSOFCODE</a><br>🎯 01/07/2021<br>☑️ Full-on CSS today! Learnt and practiced adding borders &amp; rounded corners around elements, using the border-radius property.<br>☑️ Setting the background color and styling elements with the id atrribute using CSS. <a href="https://t.co/9WcezGc4aT">pic.twitter.com/9WcezGc4aT</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1410682863473762304?ref_src=twsrc%5Etfw">July 1, 2021</a></blockquote> 
 
+**[Day-13: #100DaysOfCode](#Day-13:-#100DaysOfCode-toc)**
+-
+:dart: **`02/07/2021`**
+-
+:ballot_box_with_check: Making very slow progress in CSS..!! :slightly_frowning_face: Practiced even more more CSS: styling id iattributes.
 
+:link:&nbsp; **[tweet](#tweet-toc)**
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-13: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>🎯 02/07/2021<br>☑️ Making very slow progress in CSS..!! 🙁 Practiced even more more CSS: styling elements with id attributes.</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1411012833446285317?ref_src=twsrc%5Etfw">July 2, 2021</a></blockquote> 
 
 
 ️
