@@ -102,5 +102,14 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 :link:&nbsp; **[tweet](#tweet-toc)**
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-13: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>🎯 02/07/2021<br>☑️ Making very slow progress in CSS..!! 🙁 Practiced even more more CSS: styling elements with id attributes.</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1411012833446285317?ref_src=twsrc%5Etfw">July 2, 2021</a></blockquote> 
 
+**[Day-14: #100DaysOfCode](#Day-14:-#100DaysOfCode-toc)**
+-
+:dart: **`04/07/2021`**
+-
+✏️Bungled up another day! This crap ends now!🤬️
+☑️ Spent some time revisiting some snippets from the Basic HTML5 module on @freeCodeCamp & started designing a header for my blog. 
+⭐️Hopefully, i'll be even more focused from now on.🤟😎️
 
+️:link:&nbsp; **[tweet](#tweet-toc)**
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-14: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>🎯️04/07/2021<br>✏️Bungled up another day! This crap ends now!🤬️<br>☑️ Spent some time revisiting some snippets from the Basic HTML5 module on <a href="https://twitter.com/freeCodeCamp?ref_src=twsrc%5Etfw">@freeCodeCamp</a> &amp; started designing a header for my blog. <br>⭐️Hopefully, i&#39;ll be even more focused from now on.🤟️</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1411757226910388224?ref_src=twsrc%5Etfw">July 4, 2021</a></blockquote>
 ️
