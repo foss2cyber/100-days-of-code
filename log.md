@@ -113,3 +113,14 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 ️:link:&nbsp; **[tweet](#tweet-toc)**
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-14: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>🎯️04/07/2021<br>✏️Bungled up another day! This crap ends now!🤬️<br>☑️ Spent some time revisiting some snippets from the Basic HTML5 module on <a href="https://twitter.com/freeCodeCamp?ref_src=twsrc%5Etfw">@freeCodeCamp</a> &amp; started designing a header for my blog. <br>⭐️Hopefully, i&#39;ll be even more focused from now on.🤟️</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1411757226910388224?ref_src=twsrc%5Etfw">July 4, 2021</a></blockquote>
 ️
+
+**[Day-15: #100DaysOfCode](#Day-15:-#100DaysOfCode-toc)**
+-
+:dart: **`05/07/2021`**
+-
+:ballot_box_with_check: Revisisted some more HTML5 & CSS core modules.
+
+:ballot_box_with_check: Got started with redesigning some of my favourite websites' landing page.
+
+:link:&nbsp;**[tweet](#tweet-toc)**
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">🎯️Day-15: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>☑️Revisisted some more HTML5 &amp; CSS core modules.<br>☑️Got started with redesigning some of my favourite websites&#39; landing page!</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1412276318918496260?ref_src=twsrc%5Etfw">July 6, 2021</a></blockquote>
