@@ -124,3 +124,24 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 
 :link:&nbsp;**[tweet](#tweet-toc)**
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">🎯️Day-15: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>☑️Revisisted some more HTML5 &amp; CSS core modules.<br>☑️Got started with redesigning some of my favourite websites&#39; landing page!</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1412276318918496260?ref_src=twsrc%5Etfw">July 6, 2021</a></blockquote>
+
+**[Day-16: #100DaysOfCode](#Day-16:-#100DaysOfCode-toc)**
+-
+:dart: **`06/07/2021`**
+-
+:ballot_box_with_check: At last, made a a header for my blog/portfolio with #CSS! Take a look! 
+
+:link:&nbsp;**[tweet](#tweet-toc)**
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">🎯️Day-16: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>☑️At last, made a a header for my blog/portfolio with <a href="https://twitter.com/hashtag/CSS?src=hash&amp;ref_src=twsrc%5Etfw">#CSS</a>! 🙂️Take a look! 🔗️<a href="https://t.co/in2csqNnmC">https://t.co/in2csqNnmC</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1412674335790178306?ref_src=twsrc%5Etfw">July 7, 2021</a></blockquote> 
+
+
+**[Day-17: #100DaysOfCode](#Day-17:-#100DaysOfCode-toc)**
+-
+:dart: **`07/07/2021`**
+-
+:ballot_box_with_check: Progressed to margins and padding in CSS. Made even more headers.
+
+:ballot_box_with_check: CSS Basics @freeCodeCamp: almost done..!
+
+:link:&nbsp;**[tweet](#tweet-toc)**
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">🎯Day-17: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>☑️ Progressed to margins and padding in CSS. Made even more headers.<br>☑️ CSS Basics <a href="https://twitter.com/freeCodeCamp?ref_src=twsrc%5Etfw">@freeCodeCamp</a>: almost done..!😎️ <a href="https://t.co/u4zV81OYPi">pic.twitter.com/u4zV81OYPi</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1413039260685398018?ref_src=twsrc%5Etfw">July 8, 2021</a></blockquote>
