@@ -145,3 +145,13 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 
 :link:&nbsp;**[tweet](#tweet-toc)**
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">🎯Day-17: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>☑️ Progressed to margins and padding in CSS. Made even more headers.<br>☑️ CSS Basics <a href="https://twitter.com/freeCodeCamp?ref_src=twsrc%5Etfw">@freeCodeCamp</a>: almost done..!😎️ <a href="https://t.co/u4zV81OYPi">pic.twitter.com/u4zV81OYPi</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1413039260685398018?ref_src=twsrc%5Etfw">July 8, 2021</a></blockquote>
+
+
+**[Day-18,19: #100DaysOfCode](#Day-18,19:-#100DaysOfCode-toc)**
+-
+:dart: **`08/07/2021 | 09/07/2021`**
+-
+:ballot_box_with_check: `Intense CSS practice continues. Adjusting padding, using attribute selectors to style elements: good fun!😊`
+
+:link:&nbsp;**[tweet](#tweet-toc)**
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">🎯️Day-18,19: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>☑️ Intense CSS practice continues. Adjusting padding, using attribute selectors to style elements: good fun!😊️ <a href="https://t.co/kyIrLwjyAk">pic.twitter.com/kyIrLwjyAk</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1413563625562796035?ref_src=twsrc%5Etfw">July 9, 2021</a></blockquote> 
