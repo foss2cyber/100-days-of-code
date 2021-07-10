@@ -155,3 +155,16 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 
 :link:&nbsp;**[tweet](#tweet-toc)**
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">🎯️Day-18,19: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>☑️ Intense CSS practice continues. Adjusting padding, using attribute selectors to style elements: good fun!😊️ <a href="https://t.co/kyIrLwjyAk">pic.twitter.com/kyIrLwjyAk</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1413563625562796035?ref_src=twsrc%5Etfw">July 9, 2021</a></blockquote> 
+
+
+**[Day-20: #100DaysOfCode](#Day-20:-#100DaysOfCode-toc)**
+-
+:dart: **`10/07/2021`**
+-
+:ballot_box_with_check: `Revisited some #networksecurity  concepts today. Prepping my virtual home lab now! #proxmox #pfsense #OpenWRT #Fedora #AdGuard 😎️🚀`
+
+:ballot_box_with_check: `Hoping for tomorrow to be even more more productive. 🤞🙂`
+
+:link:&nbsp;**[tweet](#tweet-toc)**
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">🎯️Day-20: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>☑️ Revisited some <a href="https://twitter.com/hashtag/networksecurity?src=hash&amp;ref_src=twsrc%5Etfw">#networksecurity</a> concepts today. Prepping my virtual home lab now! <a href="https://twitter.com/hashtag/proxmox?src=hash&amp;ref_src=twsrc%5Etfw">#proxmox</a> <a href="https://twitter.com/hashtag/pfsense?src=hash&amp;ref_src=twsrc%5Etfw">#pfsense</a> <a href="https://twitter.com/hashtag/OpenWRT?src=hash&amp;ref_src=twsrc%5Etfw">#OpenWRT</a> <a href="https://twitter.com/hashtag/Fedora?src=hash&amp;ref_src=twsrc%5Etfw">#Fedora</a> <a href="https://twitter.com/hashtag/AdGuard?src=hash&amp;ref_src=twsrc%5Etfw">#AdGuard</a> 😎🚀<br>☑️ Hoping for tomorrow to be even more more productive. 🤞🙂</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1413932995409367041?ref_src=twsrc%5Etfw">July 10, 2021</a></blockquote> 
+
