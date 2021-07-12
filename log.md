@@ -177,3 +177,21 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 
 :link:&nbsp;**[tweet](#tweet-toc)**
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-21: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>11/06/2021<br>☑️ Updated my Github profile README and created a simple workflow for it that fetches my latest blog posts on Hashnode.<a href="https://twitter.com/hashtag/Shoutout?src=hash&amp;ref_src=twsrc%5Etfw">#Shoutout</a> to @caitlinmpit for the awesome article on Hashnode &amp; <a href="https://twitter.com/Rahuldkjain?ref_src=twsrc%5Etfw">@Rahuldkjain</a><br>Take a look 👇️<a href="https://t.co/bmSZXoyE6I">https://t.co/bmSZXoyE6I</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1414309189904596992?ref_src=twsrc%5Etfw">July 11, 2021</a></blockquote>
+
+# Day-22: #100DaysOfCode :pencil:
+##  `12/07/2021`
+---
+:ballot_box_with_check: `Wrapped up CSS Basics.`
+-
+![css_basics_pic](https://user-images.githubusercontent.com/78159236/125336716-c5889300-e36b-11eb-9c8d-2d3cbc2a90c0.png)
+:ballot_box_with_check: `Rattling off topics covered today` 👇️
+-
+- `hex code` 
+- `pseudo-class selector` 
+- `CSS variables` 
+- `improving compatibilty with browser fallbacks`
+- `inherit CSS variables`
+- `use a media query to change a variable`
+
+:link:&nbsp;**[tweet](#tweet-toc)**
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">🎯️Day-22: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>📝<br>☑️ Wrapped up CSS Basics<br>☑️ Rattling off topics covered today👇️<br>📌️hex code<br>📌 pseudo-class selector<br>📌 CSS variables<br>📌 improving compatibilty with browser fallbacks<br>📌 inherit CSS variables<br>📌 use a media query to change a variable <a href="https://t.co/rqn3jOdt0m">pic.twitter.com/rqn3jOdt0m</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1414650969275600897?ref_src=twsrc%5Etfw">July 12, 2021</a></blockquote>
