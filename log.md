@@ -195,3 +195,14 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 
 :link:&nbsp;**[tweet](#tweet-toc)**
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">🎯️Day-22: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>📝<br>☑️ Wrapped up CSS Basics<br>☑️ Rattling off topics covered today👇️<br>📌️hex code<br>📌 pseudo-class selector<br>📌 CSS variables<br>📌 improving compatibilty with browser fallbacks<br>📌 inherit CSS variables<br>📌 use a media query to change a variable <a href="https://t.co/rqn3jOdt0m">pic.twitter.com/rqn3jOdt0m</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1414650969275600897?ref_src=twsrc%5Etfw">July 12, 2021</a></blockquote>
+
+# Day-23: #100DaysOfCode :pencil:
+##  `13/07/2021`
+---
+:pushpin: `Major internet outage disrupted my progress a bit. Back now.`
+-
+:pushpin: `Troubleshooted loads of stuff on my home lab network! Couldn't code at all today, but catching up on some important network security concepts.`
+-
+
+:link:&nbsp;**[tweet](#tweet-toc)**
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">🎯️Day-23: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>📌️Major internet outage disrupted my progress a bit. Back now. <br>📌Troubleshooted loads of stuff on my home lab network! Couldn&#39;t code at all today, but catching up on some important network security concepts.</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1415022552523567108?ref_src=twsrc%5Etfw">July 13, 2021</a></blockquote> 
