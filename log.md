@@ -206,3 +206,17 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 
 :link:&nbsp;**[tweet](#tweet-toc)**
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">🎯️Day-23: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>📌️Major internet outage disrupted my progress a bit. Back now. <br>📌Troubleshooted loads of stuff on my home lab network! Couldn&#39;t code at all today, but catching up on some important network security concepts.</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1415022552523567108?ref_src=twsrc%5Etfw">July 13, 2021</a></blockquote> 
+
+# Day-24: #100DaysOfCode :pencil:
+##  `14/07/2021`
+---
+:pushpin:&nbsp; `Started the next module in Responsive Web Design` [@freeCodeCamp](https://freecodecamp.org/)  - `Applied Visual Design.` :sunglasses:
+-
+:pushpin:&nbsp; `Create Visual Balance using the text-align property` - :ballot_box_with_check:
+-
+:pushpin:&nbsp; `Adjusting the width/height of an element using the width/height proerty, respectively, in CSS.` - :ballot_box_with_check:
+-
+:pushpin:&nbsp; `Strong, U tags to highlight text.` - :ballot_box_with_check:
+-
+:link:&nbsp;**[tweet](#tweet-toc)**
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-24: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>14/07/2021<br>📌  Started the next module in Responsive Web Design <a href="https://twitter.com/freeCodeCamp?ref_src=twsrc%5Etfw">@freeCodeCamp</a> - Applied Visual Design. 😎<br>📌Visual Balance➡️text-align property:☑️<br>📌Adjusting the width/height of an element ➡️width/height property: ☑️<br>📌&lt;Strong,U tags&gt;➡️TEXT☑️</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1415365499219636229?ref_src=twsrc%5Etfw">July 14, 2021</a></blockquote> 
