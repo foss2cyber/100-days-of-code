@@ -220,3 +220,11 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 -
 :link:&nbsp;**[tweet](#tweet-toc)**
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-24: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>14/07/2021<br>📌  Started the next module in Responsive Web Design <a href="https://twitter.com/freeCodeCamp?ref_src=twsrc%5Etfw">@freeCodeCamp</a> - Applied Visual Design. 😎<br>📌Visual Balance➡️text-align property:☑️<br>📌Adjusting the width/height of an element ➡️width/height property: ☑️<br>📌&lt;Strong,U tags&gt;➡️TEXT☑️</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1415365499219636229?ref_src=twsrc%5Etfw">July 14, 2021</a></blockquote> 
+
+# Day-25: #100DaysOfCode :pencil:
+##  `15/07/2021`
+---
+:pushpin:&nbsp; `Trying to find a good balance between learning Network Security and Responsive Web Design. Having troubles setting up a #tftp server on #Fedora.😞️ Revisisted some core CSS concepts, too.`
+-
+:link:&nbsp;**[tweet](#tweet-toc)**
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-25: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>15/07/2021<br>📌Trying to find a good balance between learning Network Security and Responsive Web Design. Having troubles setting up a <a href="https://twitter.com/hashtag/tftp?src=hash&amp;ref_src=twsrc%5Etfw">#tftp</a> server on <a href="https://twitter.com/hashtag/Fedora?src=hash&amp;ref_src=twsrc%5Etfw">#Fedora</a>.😞️ <br>📌Revisisted some core CSS concepts, too.</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1415736857036431361?ref_src=twsrc%5Etfw">July 15, 2021</a></blockquote>
