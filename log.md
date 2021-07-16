@@ -228,3 +228,15 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 -
 :link:&nbsp;**[tweet](#tweet-toc)**
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-25: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>15/07/2021<br>📌Trying to find a good balance between learning Network Security and Responsive Web Design. Having troubles setting up a <a href="https://twitter.com/hashtag/tftp?src=hash&amp;ref_src=twsrc%5Etfw">#tftp</a> server on <a href="https://twitter.com/hashtag/Fedora?src=hash&amp;ref_src=twsrc%5Etfw">#Fedora</a>.😞️ <br>📌Revisisted some core CSS concepts, too.</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1415736857036431361?ref_src=twsrc%5Etfw">July 15, 2021</a></blockquote>
+
+# Day-26: #100DaysOfCode :pencil:
+##  `16/07/2021`
+---
+:pushpin:&nbsp; `Some more CSS and some JS!` :sunglasses:
+-
+:pushpin:&nbsp; `Check out this header. Not the best, but i love CSS!` 🚀
+-
+![header-16July2021_scaled](https://user-images.githubusercontent.com/78159236/125992750-5eebcea0-8a13-402e-ba03-28d75d3e3708.png)
+
+:link:&nbsp;**[tweet](#tweet-toc)** 
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>👇️Made with CSS! 😊😎️ <a href="https://t.co/SWVH9NoG3k">pic.twitter.com/SWVH9NoG3k</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1416099674558140416?ref_src=twsrc%5Etfw">July 16, 2021</a></blockquote>
