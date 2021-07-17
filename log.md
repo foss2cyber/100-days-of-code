@@ -240,3 +240,14 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 
 :link:&nbsp;**[tweet](#tweet-toc)** 
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>👇️Made with CSS! 😊😎️ <a href="https://t.co/SWVH9NoG3k">pic.twitter.com/SWVH9NoG3k</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1416099674558140416?ref_src=twsrc%5Etfw">July 16, 2021</a></blockquote>
+
+# Day-27: #100DaysOfCode :pencil:
+##  `17/07/2021`
+---
+:pushpin:&nbsp;`I now have a working home lab to learn & practice Network Security!` 😎️
+-
+:pushpin:&nbsp;`Getting comfortable now, with Bash Scripting and SQL.` 💻️
+-
+
+:link:&nbsp;**[tweet](#tweet-toc)** 
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-27: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>📌 I now have a working home lab to learn &amp; practice <a href="https://twitter.com/hashtag/networksecurity?src=hash&amp;ref_src=twsrc%5Etfw">#networksecurity</a> ! 😎️<br>📌 Getting comfortable now, with <a href="https://twitter.com/hashtag/BashScripting?src=hash&amp;ref_src=twsrc%5Etfw">#BashScripting</a> and <a href="https://twitter.com/hashtag/SQL?src=hash&amp;ref_src=twsrc%5Etfw">#SQL</a> .💻️</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1416461488202547201?ref_src=twsrc%5Etfw">July 17, 2021</a></blockquote>
