@@ -251,3 +251,13 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 
 :link:&nbsp;**[tweet](#tweet-toc)** 
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-27: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>📌 I now have a working home lab to learn &amp; practice <a href="https://twitter.com/hashtag/networksecurity?src=hash&amp;ref_src=twsrc%5Etfw">#networksecurity</a> ! 😎️<br>📌 Getting comfortable now, with <a href="https://twitter.com/hashtag/BashScripting?src=hash&amp;ref_src=twsrc%5Etfw">#BashScripting</a> and <a href="https://twitter.com/hashtag/SQL?src=hash&amp;ref_src=twsrc%5Etfw">#SQL</a> .💻️</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1416461488202547201?ref_src=twsrc%5Etfw">July 17, 2021</a></blockquote>
+
+# Day-28 #100DaysOfCode :pencil:
+##  `18/7/2021`
+---
+:pushpin:&nbsp; `With love, from CSS.` ❤️
+-
+
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">🎯Day-28 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>📌 With love, from <a href="https://twitter.com/hashtag/CSS3?src=hash&amp;ref_src=twsrc%5Etfw">#CSS3</a> .❤️ <a href="https://t.co/QrUzpfDVor">pic.twitter.com/QrUzpfDVor</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1416822165710663681?ref_src=twsrc%5Etfw">July 18, 2021</a></blockquote>
