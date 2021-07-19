@@ -261,3 +261,15 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">🎯Day-28 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>📌 With love, from <a href="https://twitter.com/hashtag/CSS3?src=hash&amp;ref_src=twsrc%5Etfw">#CSS3</a> .❤️ <a href="https://t.co/QrUzpfDVor">pic.twitter.com/QrUzpfDVor</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1416822165710663681?ref_src=twsrc%5Etfw">July 18, 2021</a></blockquote>
+
+# Day-29 #100DaysOfCode :pencil:
+##  `19/7/2021`
+---
+:pushpin:&nbsp; `On the verge of finishing Applied Visual Design`
+-
+:pushpin:&nbsp; `Learnt & practiced even more #CSS @freeCodeCamp`
+-
+
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-29 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>📌On the verge of finishing Applied Visual Design<br>📌Practiced even more <a href="https://twitter.com/hashtag/CSS?src=hash&amp;ref_src=twsrc%5Etfw">#CSS</a> <a href="https://twitter.com/freeCodeCamp?ref_src=twsrc%5Etfw">@freeCodeCamp</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1417189305223565329?ref_src=twsrc%5Etfw">July 19, 2021</a></blockquote> 
