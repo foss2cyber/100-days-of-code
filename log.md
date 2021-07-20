@@ -273,3 +273,17 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-29 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>📌On the verge of finishing Applied Visual Design<br>📌Practiced even more <a href="https://twitter.com/hashtag/CSS?src=hash&amp;ref_src=twsrc%5Etfw">#CSS</a> <a href="https://twitter.com/freeCodeCamp?ref_src=twsrc%5Etfw">@freeCodeCamp</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1417189305223565329?ref_src=twsrc%5Etfw">July 19, 2021</a></blockquote> 
+
+# Day-30 #100DaysOfCode :pencil:
+##  `20/7/2021`
+---
+:pushpin:&nbsp;`Spent a lot of time on pseudo-classes and the flexbox model in #CSS.` 
+-
+:pushpin:&nbsp;`Had fun creating an SVG banner for my upcming articles on @Hashnode!` :sunglasses: `Here's one of 'em:` :point_down:
+-
+![drr](https://user-images.githubusercontent.com/78159236/126378556-bb12cbd2-87e4-4f23-a5ec-1b62f18f509c.png)
+
+
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-30 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>📌 Spent a lot of time on pseudo-classes and the flexbox model in <a href="https://twitter.com/hashtag/CSS?src=hash&amp;ref_src=twsrc%5Etfw">#CSS</a>.<br>📌 Had fun creating an SVG banner for my upcoming articles on <a href="https://twitter.com/hashnode?ref_src=twsrc%5Etfw">@hashnode</a> ! 😎 Here&#39;s one of &#39;em: 👇 <a href="https://t.co/Yj4uL8s5P0">pic.twitter.com/Yj4uL8s5P0</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1417554561867280389?ref_src=twsrc%5Etfw">July 20, 2021</a></blockquote> 
