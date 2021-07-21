@@ -287,3 +287,12 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-30 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>📌 Spent a lot of time on pseudo-classes and the flexbox model in <a href="https://twitter.com/hashtag/CSS?src=hash&amp;ref_src=twsrc%5Etfw">#CSS</a>.<br>📌 Had fun creating an SVG banner for my upcoming articles on <a href="https://twitter.com/hashnode?ref_src=twsrc%5Etfw">@hashnode</a> ! 😎 Here&#39;s one of &#39;em: 👇 <a href="https://t.co/Yj4uL8s5P0">pic.twitter.com/Yj4uL8s5P0</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1417554561867280389?ref_src=twsrc%5Etfw">July 20, 2021</a></blockquote> 
+
+# Day-31 #100DaysOfCode :pencil:
+##  `21/7/2021`
+---
+![Day-31](https://user-images.githubusercontent.com/78159236/126548915-c5d0a4dd-b361-4add-a371-7095c195636f.png)
+
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+---
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/7e0YCjG87k">pic.twitter.com/7e0YCjG87k</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1417929454630838273?ref_src=twsrc%5Etfw">July 21, 2021</a></blockquote>
