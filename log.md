@@ -296,3 +296,16 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 ---
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/7e0YCjG87k">pic.twitter.com/7e0YCjG87k</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1417929454630838273?ref_src=twsrc%5Etfw">July 21, 2021</a></blockquote>
+
+# Day-32 & 33 #100DaysOfCode :pencil:
+##  `23/7/2021`
+
+:ballot_box_with_check:&nbsp;`Applied Visual Design almost finished.` 
+-
+:ballot_box_with_check:&nbsp;`Started learning some more interesting topics in Network Security- Security Hardening, SELinux & Vulnerabilty Scanning in RHEL.` :shield: 😎
+-
+
+
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+---
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-32&amp;33 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>☑️ Applied Visual Design almost finished.<br>☑️ Started learning some more interesting topics in <a href="https://twitter.com/hashtag/networksecurity?src=hash&amp;ref_src=twsrc%5Etfw">#networksecurity</a>: Security Hardening, SELinux &amp; Vulnerabilty Scanning in <a href="https://twitter.com/hashtag/RHEL?src=hash&amp;ref_src=twsrc%5Etfw">#RHEL</a>. 🛡😎</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1418631258930778115?ref_src=twsrc%5Etfw">July 23, 2021</a></blockquote>
