@@ -324,3 +324,20 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 ---
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-34 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>☑️ Time to test my skills! Took up my first challenege on <a href="https://twitter.com/frontendmentor?ref_src=twsrc%5Etfw">@frontendmentor</a> : Profile-Card-component! <a href="https://t.co/RhfSPpncjC">pic.twitter.com/RhfSPpncjC</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1419002015108136961?ref_src=twsrc%5Etfw">July 24, 2021</a></blockquote>
+
+# Day-35&36 #100DaysOfCode :pencil:
+##  `26/7/2021`
+---
+:ballot_box_with_check:&nbsp; `Put CSS on hold for a while. Needed to foucus on Network Security and Bash scripting, too. Familiarising myself with DMZs, Gateways DNS Zones!`&nbsp;😎
+-
+:ballot_box_with_check:&nbsp; `Here's some random CSS....whatever that is..!`&nbsp;👇
+-
+
+
+![css_art](https://user-images.githubusercontent.com/78159236/127043972-4aa0b21f-a2b2-4b6a-a946-1591d2447029.png)
+
+
+
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+---
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-35&amp;36 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>☑️ Put CSS on hold for a while. Needed to foucus on Network Security and Bash scripting, too. Familiarising myself with DMZs, Gateways DNS Zones! 😎<br>☑️ Here&#39;s some random CSS....whatever that is..! 👇 <a href="https://t.co/XA8hUGazmc">pic.twitter.com/XA8hUGazmc</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1419731888520908802?ref_src=twsrc%5Etfw">July 26, 2021</a></blockquote>
