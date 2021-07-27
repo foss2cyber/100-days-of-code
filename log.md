@@ -341,3 +341,31 @@ Still, managed to set up my blog on @hashnode & ️started a series journaling m
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 ---
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-35&amp;36 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>☑️ Put CSS on hold for a while. Needed to foucus on Network Security and Bash scripting, too. Familiarising myself with DMZs, Gateways DNS Zones! 😎<br>☑️ Here&#39;s some random CSS....whatever that is..! 👇 <a href="https://t.co/XA8hUGazmc">pic.twitter.com/XA8hUGazmc</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1419731888520908802?ref_src=twsrc%5Etfw">July 26, 2021</a></blockquote>
+
+# Day-37 #100DaysOfCode :pencil:
+##  `27/7/2021`
+---
+:ballot_box_with_check:&nbsp;`Worked through some more networking concepts- VLAN filtering, QoS and HTTPS-filtering.`
+-
+:ballot_box_with_check:&nbsp;`Some more bash scripting and g00gle d0rk$.`
+-
+🎯&nbsp;``Here's a script to print coloured output on the terminal``👇
+-
+```bash
+#!/bin/bash
+echo -e "\e[1;31m Day-37: #100DaysOfCode \e[0m"
+```
+
+🎯 &nbsp;``Output``&nbsp;👇
+-
+---
+
+![Screenshot from 2021-07-28 00-26-31](https://user-images.githubusercontent.com/78159236/127214590-09f67776-d464-4b8d-b0fa-16cd3b94b239.png)
+
+
+---
+
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+---
+
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-37 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>☑️ Worked through some more networking concepts- VLAN filtering, QoS and HTTPS-filtering.<br>☑️ Some more bash scripting &amp; g00gle d0rk$.<br>🎯 Here&#39;s a script to print coloured output on the terminal👇 <a href="https://t.co/Yxh3mwD6cQ">pic.twitter.com/Yxh3mwD6cQ</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1420100006116085761?ref_src=twsrc%5Etfw">July 27, 2021</a></blockquote> 
