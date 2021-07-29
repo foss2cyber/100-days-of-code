@@ -369,3 +369,16 @@ echo -e "\e[1;31m Day-37: #100DaysOfCode \e[0m"
 ---
 
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-37 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>☑️ Worked through some more networking concepts- VLAN filtering, QoS and HTTPS-filtering.<br>☑️ Some more bash scripting &amp; g00gle d0rk$.<br>🎯 Here&#39;s a script to print coloured output on the terminal👇 <a href="https://t.co/Yxh3mwD6cQ">pic.twitter.com/Yxh3mwD6cQ</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1420100006116085761?ref_src=twsrc%5Etfw">July 27, 2021</a></blockquote> 
+
+# Day-38 #100DaysOfCode :pencil:
+##  `28/7/2021`
+---
+:ballot_box_with_check:&nbsp;`Couldn't finish Applied Visual Design today. Tomorrow, then.` :crossed_fingers: :dart:
+-
+:ballot_box_with_check:&nbsp;`Started out with revisiting awk & sed. Also, GNU-Emacs & ohmyzsh are dope!` 😎
+-
+
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+---
+
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-38 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>☑️ Couldn&#39;t finish Applied Visual Design today. Tomorrow, then. 🤞 🎯<br>☑️ Started out with revisiting awk &amp; sed. Also, <a href="https://twitter.com/emacs?ref_src=twsrc%5Etfw">@emacs</a> &amp; <a href="https://twitter.com/ohmyzsh?ref_src=twsrc%5Etfw">@ohmyzsh</a> are dope! 😎</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1420468457091461121?ref_src=twsrc%5Etfw">July 28, 2021</a></blockquote> 
