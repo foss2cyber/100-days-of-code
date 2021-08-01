@@ -382,3 +382,31 @@ echo -e "\e[1;31m Day-37: #100DaysOfCode \e[0m"
 ---
 
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-38 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>☑️ Couldn&#39;t finish Applied Visual Design today. Tomorrow, then. 🤞 🎯<br>☑️ Started out with revisiting awk &amp; sed. Also, <a href="https://twitter.com/emacs?ref_src=twsrc%5Etfw">@emacs</a> &amp; <a href="https://twitter.com/ohmyzsh?ref_src=twsrc%5Etfw">@ohmyzsh</a> are dope! 😎</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1420468457091461121?ref_src=twsrc%5Etfw">July 28, 2021</a></blockquote> 
+
+# Day-39&40 #100DaysOfCode :pencil:
+##  `29/07/2021-30/7/2021`
+---
+:ballot_box_with_check:&nbsp;`Exploring SNORT rules, Linux System Auditing and Reverse Proxy is so cool!`&nbsp;😎
+-
+:ballot_box_with_check:&nbsp;`No responsive web design practice @freeCodeCamp for the last two days. Gotta get a grip and finish this stuff. Also, still working on my #frontendmentor challenge.`&nbsp;💻️
+-
+
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+---
+
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-39&amp;40 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>☑️ Exploring SNORT rules, Linux System Auditing and Reverse Proxy is so cool! 😎<br>☑️ No responsive web design practice <a href="https://twitter.com/freeCodeCamp?ref_src=twsrc%5Etfw">@freeCodeCamp</a> for the last two days. Gotta get a grip and finish this stuff. Still working on that <a href="https://twitter.com/hashtag/Frontendmentor?src=hash&amp;ref_src=twsrc%5Etfw">#Frontendmentor</a> challenge. 💻️</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1421185624690753538?ref_src=twsrc%5Etfw">July 30, 2021</a></blockquote> 
+
+# Day-41&42 #100DaysOfCode :pencil:
+##  `31/7/2021-01/08/2021`
+---
+:ballot_box_with_check:&nbsp;`Having fun learning & practising Network Security Basics on my home lab!`
+-
+:ballot_box_with_check:&nbsp;`Learnt about the CIDR notation, bogon-networks, NAT & Port-forwarding.`
+-
+:ballot_box_with_check:&nbsp;`Gonna start with Responsive Web Design again, tomorrow.`
+-
+
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+---
+
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-41&amp;42 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>☑️ Having fun learning &amp; practising Network Security Basics on my home lab!<br>☑️ Learnt about the CIDR notation, bogon-networks, NAT &amp; Port-forwarding.<br>☑️ Gonna start with Responsive Web Design again, tomorrow.</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1421908728387829762?ref_src=twsrc%5Etfw">August 1, 2021</a></blockquote>
