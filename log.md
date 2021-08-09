@@ -410,3 +410,28 @@ echo -e "\e[1;31m Day-37: #100DaysOfCode \e[0m"
 ---
 
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-41&amp;42 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>☑️ Having fun learning &amp; practising Network Security Basics on my home lab!<br>☑️ Learnt about the CIDR notation, bogon-networks, NAT &amp; Port-forwarding.<br>☑️ Gonna start with Responsive Web Design again, tomorrow.</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1421908728387829762?ref_src=twsrc%5Etfw">August 1, 2021</a></blockquote>
+
+# Day-43,44&45 #100DaysOfCode :pencil:
+##  `02/08/2021-04/08/2021`
+---
+:ballot_box_with_check:&nbsp;`Made extremely slow progress over the past three days-sprained neck; couldn't code much.`
+-
+:ballot_box_with_check:&nbsp;`Practised some more CSS: offset-position, relative & absolute positioning.`&nbsp;**[@freeCodecamp](#@freeCodecamp-toc)**.
+
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+---
+
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-43,44&amp;45 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>🎯02/08/2021-04/08/2021<br>☑️ Made extremely slow progress over the past three days-sprained neck; couldn&#39;t code much.<br>☑️ Practised some more CSS: offset-position, relative &amp; absolute positioning. <a href="https://twitter.com/freeCodeCamp?ref_src=twsrc%5Etfw">@freeCodeCamp</a> <a href="https://t.co/pFDsKORZ6t">pic.twitter.com/pFDsKORZ6t</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1422981547112636420?ref_src=twsrc%5Etfw">August 4, 2021</a></blockquote>
+
+# Day-46-49 #100DaysOfCode :pencil:
+##  `05/08/2021-08/08/2021`
+---
+:ballot_box_with_check:&nbsp;`A new low in my journey. Couldn't code at all. FOUR days. A lot going on & cannot focus at all. Feel mentally exhausted.`
+-
+:ballot_box_with_check:&nbsp;`Hope this crap ends tomorrow.`
+-
+
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+---
+
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-46-49 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>🗓️05/08/2021-08/08/2021<br>☑️ A new low in my journey. Couldn&#39;t code at all. FOUR days. A lot going on &amp; cannot focus at all. Feel mentally exhausted.😥<br>☑️ Hope this crap ends tomorrow.</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1424439816184221697?ref_src=twsrc%5Etfw">August 8, 2021</a></blockquote> 
