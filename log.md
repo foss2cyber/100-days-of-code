@@ -435,3 +435,16 @@ echo -e "\e[1;31m Day-37: #100DaysOfCode \e[0m"
 ---
 
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-46-49 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>🗓️05/08/2021-08/08/2021<br>☑️ A new low in my journey. Couldn&#39;t code at all. FOUR days. A lot going on &amp; cannot focus at all. Feel mentally exhausted.😥<br>☑️ Hope this crap ends tomorrow.</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1424439816184221697?ref_src=twsrc%5Etfw">August 8, 2021</a></blockquote> 
+
+# Day-50 #100DaysOfCode :pencil:
+##  `09/08/2021`
+---
+:ballot_box_with_check:&nbsp;`Started out again by revisiting a key concept in Responsive Web Design: Semantic HTML.`&nbsp;✍️
+-
+:ballot_box_with_check:&nbsp;`Network Security Basics, VLANs & Gateways.`
+-
+
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+---
+
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-50 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>☑️ Started out again by revisiting a key concept in Responsive Web Design: Semantic HTML.✍️<br>☑️ Also, skimmed through my notes on Network Security Basics, VLANs &amp; Gateways.</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1424810268190597120?ref_src=twsrc%5Etfw">August 9, 2021</a></blockquote>
