@@ -448,3 +448,70 @@ echo -e "\e[1;31m Day-37: #100DaysOfCode \e[0m"
 ---
 
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-50 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>☑️ Started out again by revisiting a key concept in Responsive Web Design: Semantic HTML.✍️<br>☑️ Also, skimmed through my notes on Network Security Basics, VLANs &amp; Gateways.</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1424810268190597120?ref_src=twsrc%5Etfw">August 9, 2021</a></blockquote>
+
+# Day-51-54 #100DaysOfCode :pencil:
+##  `10/08/2021-13/08/2021`
+---
+:ballot_box_with_check:&nbsp; `Started out with something new: API.`
+-
+:ballot_box_with_check:&nbsp; `Network Security: Messed around a bit with writing Snort rules & multi-wan failover setup on pfSense.`
+-
+:ballot_box_with_check:&nbsp; `Disheartening for me to be this sluggish even after 50+ days of #100DaysOfCode.`&nbsp;😥
+-
+
+
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+---
+
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day-51-54 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>10/08/2021-13/08/2021<br>☑️ Started out with something new: API.<br>☑️ Network Security: Messed around a bit with writing Snort rules &amp; multi-wan failover setup on pfSense.<br>☑️ Disheartening for me to be this sluggish even after 50+ days.😥</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1426224642746773507?ref_src=twsrc%5Etfw">August 13, 2021</a></blockquote> 
+
+# Day-55-64: #100DaysOfCode :pencil:
+##  `14/08/2021-23/08/2021`&nbsp;:calendar:
+---
+:ballot_box_with_check:&nbsp;`Update: Couldn't post anything about my coding journey. Dealing with some major issues after a series of  distressing events in the past week left me mentally exhausted & overwhelmed. Really messed up times.`
+-
+:ballot_box_with_check:&nbsp;`Gonna start again, tomorrow.`
+-
+
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+---
+
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day: 55-64: <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>14-23/08/2021 📆<br>☑️ Update: Couldn&#39;t post anything about my coding journey. Dealing with some major issues after a series of distressing events in the past week left me mentally exhausted &amp; overwhelmed.<br>☑️ Gonna start again, tomorrow.</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1429883479404138535?ref_src=twsrc%5Etfw">August 23, 2021</a></blockquote>
+
+# Day-65-67: #100DaysOfCode :pencil:
+##  `24-26/08/2021`&nbsp;:calendar:
+---
+:dart:&nbsp;`Responsive Web Design`&nbsp;:point_right:&nbsp;`Applied Visual Design`&nbsp;:point_down:&nbsp;
+* * *
+📌&nbsp;`Lock an element to the browser window with fixed positioning.☑️`
+-
+📌&nbsp;`Push elements left/right with the float property.☑️`
+-
+📌&nbsp;`Change the position of overlapping elements with the Z-Index property.☑️`
+-
+📌&nbsp;`Center an element using the margin property.☑️`
+-
+📌&nbsp;`Complimentary color schemes.☑️`
+-
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+---
+
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/O0SeNca8CC">pic.twitter.com/O0SeNca8CC</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1430956914758676482?ref_src=twsrc%5Etfw">August 26, 2021</a></blockquote>
+
+# Day-68-69 #100DaysOfCode :pencil:
+##  `27-28/08/2021`
+---
+:ballot_box_with_check:&nbsp;`Got started with Yara rules, for a change.`
+-
+:ballot_box_with_check:&nbsp;`Attended my first Conference: BSides Berlin.Overwhelmed, but grateful to have had the oppurtunity to learn a lot: CI-CD pipelines, API Security, Memory safety in GO!`
+-
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+---
+
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day: 68-69 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>27-28/08/2021<br>☑️ Got started with Yara rules, for a change.<br>☑️ Attended my first Conference: BSides Berlin.Overwhelmed, but grateful to have had the oppurtunity to learn a lot: CI-CD pipelines, API Security, Memory safety in GO!</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1431692053335793676?ref_src=twsrc%5Etfw">August 28, 2021</a></blockquote>
+
+# Day: 70-72 #100DaysOfCode :pencil:
+##  `29-31/08/2021`
+:ballot_box_with_check:&nbsp;``
+-
+
