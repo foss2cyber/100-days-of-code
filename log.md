@@ -510,8 +510,16 @@ echo -e "\e[1;31m Day-37: #100DaysOfCode \e[0m"
 
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day: 68-69 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>27-28/08/2021<br>☑️ Got started with Yara rules, for a change.<br>☑️ Attended my first Conference: BSides Berlin.Overwhelmed, but grateful to have had the oppurtunity to learn a lot: CI-CD pipelines, API Security, Memory safety in GO!</p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1431692053335793676?ref_src=twsrc%5Etfw">August 28, 2021</a></blockquote>
 
-# Day: 70-72 #100DaysOfCode :pencil:
-##  `29-31/08/2021`
-:ballot_box_with_check:&nbsp;``
+# Day: 70-86 #100DaysOfCode :pencil:
+##  `29/08/2021-14/09/2021`&nbsp;:calendar:
+---
+:ballot_box_with_check:&nbsp;`Completed the section: Applied Visual Design, in the Responsive Web Design Certificate Course.`&nbsp;[#freeCodecamp](https://freeCodecamp.org/)
 -
+:ballot_box_with_check:&nbsp;`Completed. REST API tutorial- REST Client/Service/API Calls. `&nbsp;**[#REST API](#RESTAPI)**
+-
+:ballot_box_with_check:&nbsp;`Attended the Hashnode bootcamp: The Art & Business of Technical Writing. Day-1: 13 September,'21.`&nbsp;**[#HashnodeBootcamp](#HashnodeBootcamp)**
+-
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+---
+<blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Day: 70-86 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> 📝<br>29/08/2021-14/09/2021 📆<br>☑️ Completed: Applied Visual Design, <a href="https://twitter.com/hashtag/freeCodeCamp?src=hash&amp;ref_src=twsrc%5Etfw">#freeCodeCamp</a> <br>☑️ Completed. REST API tutorial- REST Client/Service/API Calls.<br>☑️ Day -1.Hashnode bootcamp: The Art &amp; Business of Technical Writing. (13/09/21) <a href="https://twitter.com/hashtag/HashnodeBootcamp?src=hash&amp;ref_src=twsrc%5Etfw">#HashnodeBootcamp</a></p>&mdash; TheFoss Moss✍️💻️🎭 (@thefoss_m) <a href="https://twitter.com/thefoss_m/status/1437795230397435916?ref_src=twsrc%5Etfw">September 14, 2021</a></blockquote>
 
