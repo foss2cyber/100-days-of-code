@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [Ishan Velle]
 
-The log of my #100DaysOfCode challenge. Started on [June 16,  , 2021].
+The log of my #100DaysOfCode challenge. Started on [June 16, Wednesday, 2021].
 
 ## Log
 
