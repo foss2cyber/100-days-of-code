@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge `(Round-1)`
+# I've joined the #100DaysOfCode Challenge 
 
 ## Contents
 
