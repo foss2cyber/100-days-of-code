@@ -28,3 +28,8 @@ Recreated a challenge posted by @iCodeThis.
 Created a header with HTML & CSS. 
 
 [![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=deepskyblue&color=111)](https://twitter.com/thefoss_m/status/1617212738048258048?s=20&t=QlGqMeS4VL6ElIQBWDP-2A)
+
+### R2D6
+Progressed a bit more with learning JS; initialized & uninitialized vars; basic functions, and conditions.
+
+[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=deepskyblue&color=111)](https://twitter.com/thefoss_m/status/1617585582519255042?s=20&t=QlGqMeS4VL6ElIQBWDP-2A)
