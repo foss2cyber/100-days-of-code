@@ -33,3 +33,46 @@ Created a header with HTML & CSS.
 Progressed a bit more with learning JS; initialized & uninitialized vars; basic functions, and conditions.
 
 [![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=deepskyblue&color=111)](https://twitter.com/thefoss_m/status/1617585582519255042?s=20&t=QlGqMeS4VL6ElIQBWDP-2A)
+
+### R2D7
+Learning JS - progressed slowly to object types (functions) & then on to operators.
+
+[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=deepskyblue&color=111)](https://twitter.com/thefoss_m/status/1617950635592384515?s=20&t=BSzAhiS4dRHEH_qqErYpgw)
+
+### R2D8
+Progressed even further learning JS - performing basic mathematical operations, increments, decrements. Gonna enhance the card game with a lot more Vanilla JS!
+
+[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=deepskyblue&color=111)](https://twitter.com/thefoss_m/status/1618322634177130497?s=20&t=BSzAhiS4dRHEH_qqErYpgw)
+
+### R2D9
+Progressed a bit more with learning JS; initialized & uninitialized vars; basic functions, and conditions.
+
+[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=deepskyblue&color=111)](https://twitter.com/thefoss_m/status/1618675836298870785?s=20&t=BSzAhiS4dRHEH_qqErYpgw)
+
+### R2D10
+Learning JS  & 10 days are already gone!  Lots of exercises done with operators & escaping string literals today.
+
+[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=deepskyblue&color=111)](https://twitter.com/thefoss_m/status/1619038485977133056?s=20&t=BSzAhiS4dRHEH_qqErYpgw)
+
+### R2D11
+The going gets a bit tough. Progress today wasn't up to the mark. Better luck tomorrow.
+
+[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=deepskyblue&color=111)](https://twitter.com/thefoss_m/status/1619398958014664704?s=20&t=BSzAhiS4dRHEH_qqErYpgw)
+
+
+### R2D12
+Moved on to functions now. Had some fun playing with toast notifications in React. Also, started ![@codewars](https://twitter.com/codewars), too! Learning JS was fun today!
+
+[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=deepskyblue&color=111)](https://twitter.com/thefoss_m/status/1619753965884960768?s=20&t=BSzAhiS4dRHEH_qqErYpgw)
+
+### R2D13
+Learning JS wasn't as intimidating as I was making it out to be. Arrays & Objects today. Also, started building something interesting. Gonna make it into something special with JS (and React!).
+
+[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=deepskyblue&color=111)](https://twitter.com/thefoss_m/status/1620122106855047169?s=20&t=BSzAhiS4dRHEH_qqErYpgw)
+
+### R2D14
+Shifted to something a bit different for a change.&nbsp;APIs.
+
+[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=deepskyblue&color=111)](https://twitter.com/thefoss_m/status/1620477058899128322?s=20&t=BSzAhiS4dRHEH_qqErYpgw)
+
+
